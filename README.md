@@ -1,6 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SampadaTiwari&color=0f6e56&style=flat-square&label=Profile+views)
 
-/* <h2 align="left">Hi, I'm Sampada Tiwari 👋</h2> */
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0F6E56&width=500&lines=Hi%2C+I'm+Sampada+Tiwari+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+%7C+MCA+'26;Building+real+things+that+matter)](https://git.io/typing-svg)
 
 <p align="left">
@@ -31,67 +30,6 @@ Open to full-time roles and internships.
 ###
 
 <h2 align="left">Tech Stack</h2>
-
-###
-
-/* <h3 align="left">Frontend</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo" />
-</div>
-
-<p align="left">
-    HTML5  · CSS3  · JavaScript ES6+  · Bootstrap  · Tailwind CSS
-</p>
-
-###
-
-<h3 align="left">Backend</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="expressjs logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-</div>
-
-<p align="left">
-Node.js  · Express.js  · MongoDB  · JWT Auth  · RESTFul API
-</p>
-
-###
-
-<h3 align="left">Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
-
-</div>
-
-<p align="left">
-Git & GitHub  · Postman  · VS Code  · IntelliJ IDEA
-</p> */
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -161,12 +99,6 @@ HTML5, CSS3, JavaScript, Bootstrap
 <h2 align="left">Let's connect</h2>
 
 ###
-
-/* <p align="left">
-📧 sampadatiwari54@gmail.com<br>
-💼 https://linkedin.com/in/swe-sampada-tiwari<br>
-🌐 https://sampadatiwari30.github.io/Sampada_portfolio/
-</p> */
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
