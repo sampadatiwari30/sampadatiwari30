@@ -5,7 +5,7 @@ Full-Stack Developer · MCA student at Banasthali Vidyapith, graduating 2026
 </p>
 
 <p align="left">
-I build web applications end-to-end — from designing the UI to wiring up the backend. I'm focused on writing clean, purposeful code that solves real problems. Currently deepening my skills in full-stack development and DSA while shipping projects that matter.
+I build web applications end-to-end from designing the UI to wiring up the backend. I'm focused on writing clean, purposeful code that solves real problems. Currently deepening my skills in full-stack development and DSA while shipping projects that matter.
 </p>
 
 <p align="left">
@@ -50,7 +50,7 @@ Open to full-time roles and internships.
 </div>
 
 <p align="left">
-HTML5 · CSS3 · JavaScript ES6+ · Bootstrap · Tailwind CSS
+    HTML5  · CSS3  · JavaScript ES6+  · Bootstrap  · Tailwind CSS
 </p>
 
 ###
@@ -68,7 +68,7 @@ HTML5 · CSS3 · JavaScript ES6+ · Bootstrap · Tailwind CSS
 </div>
 
 <p align="left">
-Node.js · Express.js · MongoDB · JWT Auth · RESTFul API
+Node.js  · Express.js  · MongoDB  · JWT Auth  · RESTFul API
 </p>
 
 ###
@@ -87,7 +87,7 @@ Node.js · Express.js · MongoDB · JWT Auth · RESTFul API
 </div>
 
 <p align="left">
-Git & GitHub · Postman · VS Code · IntelliJ IDEA
+Git & GitHub  · Postman  · VS Code  · IntelliJ IDEA
 </p>
 
 ###
