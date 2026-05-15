@@ -7,7 +7,7 @@ I build web applications end-to-end from designing the UI to wiring up the backe
 </p>
 
 <p align="left">
-Open to full-time roles and internships.
+Open to full-time roles.
 </p>
 
 ###
@@ -51,7 +51,7 @@ Open to full-time roles and internships.
 
 ###
 
-<h3 align="left">🚀 AskMentor <i>(In progress)</i></h3>
+<h3 align="left">🚀 AskMentor <i>(Shipping Soon)</i></h3>
 
 <p align="left">
 A platform where verified working professionals guide students — sharing resources, interview tips, and real job postings. The key difference from LinkedIn: only verified professionals can post opportunities. A content moderation system flags and blocks misuse automatically. Students can ask questions but have limited posting rights to keep the signal high.
@@ -64,7 +64,7 @@ HTML5, CSS3, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, JWT, RestFul A
 
 ###
 
-<h3 align="left">🎨 Kala.ficial <i>(Frontend complete)</i></h3>
+<h3 align="left">🎨 Kala.ficial <i>(Live)</i></h3>
 <p align="left">
 <b>Live Project:</b><br>
 <a href="https://sampadatiwari30.github.io/Final-KF/" target="_blank">🌐 View Kala.ficial</a>
