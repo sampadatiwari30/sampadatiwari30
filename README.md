@@ -1,13 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">
-My name is <b>Sampada Tiwari</b> and I'm a <b>Full-Stack Developer</b> from India 🇮🇳
-</p>
-
-###
-
 <h2 align="left">Hi, I'm Sampada Tiwari 👋</h2>
 
 <p align="left">
