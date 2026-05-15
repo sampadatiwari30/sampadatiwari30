@@ -3,10 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0F6E56&width=500&lines=Hi%2C+I'm+Sampada+Tiwari+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+%7C+MCA+'26;Building+real+things+that+matter)](https://git.io/typing-svg)
 
 <p align="left">
-Full-Stack Developer · MCA student at Banasthali Vidyapith, graduating 2026
-</p>
-
-<p align="left">
 I build web applications end-to-end from designing the UI to wiring up the backend. I'm focused on writing clean, purposeful code that solves real problems. Currently deepening my skills in full-stack development and DSA while shipping projects that matter.
 </p>
 
