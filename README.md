@@ -45,10 +45,6 @@ Open to full-time roles.
 
 ###
 
-![Sampada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampadatiwari30&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampadatiwari30&layout=compact&theme=dark&hide_border=true)
-
 <h2 align="left">Projects</h2>
 
 ###
