@@ -120,7 +120,10 @@ HTML5, CSS3, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, JWT, RestFul A
 ###
 
 <h3 align="left">🎨 Kala.ficial <i>(Frontend complete)</i></h3>
-
+<p align="left">
+<b>Live Project:</b><br>
+<a href="https://sampadatiwari30.github.io/Final-KF/" target="_blank">🌐 View Kala.ficial</a>
+</p>
 <p align="left">
 An art exhibition platform for independent and emerging artists who don't have a gallery yet. Artists can showcase their work and discover upcoming exhibitions worldwide — with real-time listing of events that are live or starting soon. Built as a university team project; my role was the full frontend.
 </p>
