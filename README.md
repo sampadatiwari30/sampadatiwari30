@@ -52,7 +52,7 @@ Open to full-time roles.
 <h3 align="left">🚀 AskMentor <i>(Shipping Soon)</i></h3>
 
 <p align="left">
-A platform where verified working professionals guide students — sharing resources, interview tips, and real job postings. The key difference from LinkedIn: only verified professionals can post opportunities. A content moderation system flags and blocks misuse automatically. Students can ask questions but have limited posting rights to keep the signal high.
+A platform where verified working professionals guide students - sharing resources, interview tips, and real job postings. The key difference from LinkedIn: only verified professionals can post opportunities. A content moderation system flags and blocks misuse automatically. Students can ask questions but have limited posting rights to keep the signal high.
 </p>
 
 <p align="left">
