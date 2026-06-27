@@ -47,46 +47,22 @@ Open to full-time roles.
 
 <h2 align="left">Projects</h2>
 
-###
+### 💬 Discord Clone
 
-<h3 align="left">🚀 AskMentor <i>(Shipping Soon)</i></h3>
+A responsive **Discord Clone** built with **React.js** and **Firebase**, featuring Google Authentication and real-time messaging for a seamless communication experience.
 
-<p align="left">
-A platform where verified working professionals guide students - sharing resources, interview tips, and real job postings. The key difference from LinkedIn: only verified professionals can post opportunities. A content moderation system flags and blocks misuse automatically. Students can ask questions but have limited posting rights to keep the signal high.
-</p>
+**Tech Stack:** React.js • Firebase Authentication • Cloud Firestore • Material UI • CSS3
 
-<p align="left">
-<b>Tech Used:</b><br>
-HTML5, CSS3, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, JWT, RestFul API
-</p>
+**Key Features**
 
-###
+* 🔐 Google Sign-In Authentication
+* 💬 Real-time Chat with Cloud Firestore
+* 📂 Channel-based Conversations
+* 📱 Fully Responsive UI
+* ⚡ Instant Message Updates
+* 🎨 Clean and Modern Interface
 
-<h3 align="left">🎨 Kala.ficial <i>(Live)</i></h3>
-<p align="left">
-<b>Live Project:</b><br>
-<a href="https://sampadatiwari30.github.io/Final-KF/" target="_blank">🌐 View Kala.ficial</a>
-</p>
-<p align="left">
-An art exhibition platform for independent and emerging artists who don't have a gallery yet. Artists can showcase their work and discover upcoming exhibitions worldwide — with real-time listing of events that are live or starting soon. Built as a university team project; my role was the full frontend.
-</p>
-
-<p align="left">
-<b>Tech Used:</b><br>
-HTML5, CSS3, JavaScript, Bootstrap
-</p>
-
-###
-
-<h2 align="left">Currently working on</h2>
-
-###
-
-<p align="left">
-→ Completing AskMentor's backend and planning AI-powered features<br>
-→ Strengthening DSA in Java for interviews<br>
-→ Looking for a full-time role to build on
-</p>
+**Repository:** https://discord-clone-zabh.vercel.app/
 
 ###
 
