@@ -66,6 +66,24 @@ A responsive **Discord Clone** built with **React.js** and **Firebase**, featuri
 
 ###
 
+### 🌐 IP Address Finder
+
+A C-based **IP Address Finder** that demonstrates efficient IP lookup and packet management using a **Splay Tree**. The project showcases self-adjusting tree operations, dynamic memory allocation, and recursive algorithms to optimize search performance.
+
+**Tech Stack:** C • Data Structures & Algorithms • Splay Tree • Dynamic Memory Allocation
+
+**Key Features**
+
+* 🌳 Self-adjusting **Splay Tree** implementation for optimized IP lookup
+* 🔍 Efficient IP address insertion and recursive search operations
+* 📦 Simulated packet assignment for IP routing visualization
+* 🔄 Automatic tree balancing using **left** and **right rotations**
+* 📊 Inorder traversal for organized routing table display
+* ⚡ Pointer-based implementation with dynamic memory management
+
+**Repository:** https://github.com/sampadatiwari30/IP-Address-Finder
+
+
 <h2 align="left">Let's connect</h2>
 
 ###
