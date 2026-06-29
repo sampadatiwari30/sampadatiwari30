@@ -83,6 +83,26 @@ A C-based **IP Address Finder** that demonstrates efficient IP lookup and packet
 
 **Repository:** https://github.com/sampadatiwari30/IP-Address-Finder
 
+### Rock Paper Scissors Game
+
+A console-based **Rock Paper Scissors** game built in **C** that demonstrates core programming concepts through an interactive player-vs-computer experience. The project focuses on clean game logic, input validation, randomization, and score management while providing a smooth command line gameplay experience.
+
+**Tech Stack:** C • Dev-C++ • GCC • Console Application
+
+**Key Features**
+
+* 🎮 Interactive **Player vs Computer** gameplay
+* 🤖 Random computer move generation using `rand()`
+* ✅ Input validation for a seamless user experience
+* 🔄 **Play Again** functionality for continuous gameplay
+* 📊 Live score tracking (Wins, Losses & Draws)
+* 📈 Win rate calculation and total matches played
+* 🏆 Final match summary with winner announcement
+* 🎯 Real-time leader tracking after every round
+* 💻 Clean and structured command-line interface
+
+**Repository:** https://github.com/sampadatiwari30/Rock-Paper-Scissor
+
 
 <h2 align="left">Let's connect</h2>
 
